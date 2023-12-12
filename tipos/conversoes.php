@@ -18,7 +18,7 @@ echo '<br>';
 var_dump(intval(2.999));
 echo '<br>';
 var_dump((int) round(2.8));
-
+//round arredondar
 // operações com string
 echo '<p>Strings</p>';
 var_dump(3 + "2");
