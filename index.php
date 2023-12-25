@@ -42,6 +42,21 @@
                             Operações
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                            Desafio Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mult">
+                           Multidimensionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=array_constante">
+                           Array Constantes
+                            </a>
+                        </li>
                     </ul>
                 </div>
             <div class="modulo roxo">
