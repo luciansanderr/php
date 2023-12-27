@@ -57,6 +57,21 @@
                            Array Constantes
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=get">
+                           $_GET
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=post">
+                           $_POST
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=comparacao">
+                           Comparação
+                            </a>
+                        </li>
                     </ul>
                 </div>
             <div class="modulo roxo">
